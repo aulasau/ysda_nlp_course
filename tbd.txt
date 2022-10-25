@@ -1,3 +1,10 @@
 #TBD
-1. week2 hw_part2: pass through it, don't have so much time now
-2. week3 seminar: Kneser-Ney smoothing implementation
+week2:
+
+1. hw_part2: pass through it, don't have so much time now
+
+week3:
+
+1. seminar: Kneser-Ney smoothing implementation
+2. hw_pytorch: beam search task
+	
